@@ -1,4 +1,4 @@
-# customer_connect_mobile
+# customer_connect_mobile (NO MOBILE APP YET)
 
 A new Flutter project.
 
